@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Card flip image slideshow\n"
+"POT-Creation-Date: 2019-12-23 20:56+0800\n"
+"PO-Revision-Date: 2019-12-23 20:56+0800\n"
+"Last-Translator: \n"
+"Language-Team: www.gopiplus.com <www.gopiplus.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../classes/cardflip-register.php:45
+msgid "These tables could not be created on installation "
+msgstr ""
+
+#: ../classes/cardflip-register.php:97 ../classes/cardflip-register.php:98
+msgid "Card flip slideshow"
+msgstr ""
+
+#: ../classes/cardflip-register.php:111 ../pages/image-management-add.php:23
+#: ../pages/image-management-edit.php:38
+msgid "Please enter the image path."
+msgstr ""
+
+#: ../classes/cardflip-register.php:112 ../pages/image-management-add.php:36
+#: ../pages/image-management-edit.php:51
+msgid "Please enter the image group."
+msgstr ""
+
+#: ../classes/cardflip-register.php:113
+msgid "Please enter the display order."
+msgstr ""
+
+#: ../classes/cardflip-register.php:114
+msgid "Please input numeric and letters only."
+msgstr ""
+
+#: ../classes/cardflip-register.php:115
+msgid "Do you want to delete this record?"
+msgstr ""
+
+#: ../classes/cardflip-register.php:131 ../classes/cardflip-register.php:132
+#: ../pages/image-management-show.php:31
+msgid "Card flip image slideshow"
+msgstr ""
+
+#: ../classes/cardflip-register.php:210 ../pages/image-management-show.php:43
+#: ../pages/image-management-show.php:54
+msgid "Title"
+msgstr ""
+
+#: ../classes/cardflip-register.php:214 ../pages/image-management-add.php:124
+#: ../pages/image-management-edit.php:134
+msgid "Image group"
+msgstr ""
+
+#: ../classes/cardflip-register.php:233
+msgid "Width"
+msgstr ""
+
+#: ../classes/cardflip-register.php:237
+msgid "Height"
+msgstr ""
+
+#: ../classes/cardflip-register.php:241
+msgid "Auto play"
+msgstr ""
+
+#: ../classes/cardflip-register.php:249
+msgid "Hinge position"
+msgstr ""
+
+#: ../classes/cardflip-register.php:259
+msgid "Duration"
+msgstr ""
+
+#: ../classes/cardflip-register.php:263
+msgid "Pause"
+msgstr ""
+
+#: ../pages/image-management-add.php:45
+msgid "New image details was successfully added."
+msgstr ""
+
+#: ../pages/image-management-add.php:48 ../pages/image-management-edit.php:64
+msgid "Oops, something went wrong. try again."
+msgstr ""
+
+#: ../pages/image-management-add.php:69 ../pages/image-management-edit.php:76
+msgid "Click here"
+msgstr ""
+
+#: ../pages/image-management-add.php:69 ../pages/image-management-edit.php:76
+msgid "to view the details"
+msgstr ""
+
+#: ../pages/image-management-add.php:102
+msgid "Add image"
+msgstr ""
+
+#: ../pages/image-management-add.php:104
+#: ../pages/image-management-edit.php:113
+msgid "Image path (URL)"
+msgstr ""
+
+#: ../pages/image-management-add.php:107
+#: ../pages/image-management-edit.php:116
+msgid "Where is the image located on the internet."
+msgstr ""
+
+#: ../pages/image-management-add.php:109
+#: ../pages/image-management-edit.php:119
+msgid "Image title"
+msgstr ""
+
+#: ../pages/image-management-add.php:111
+#: ../pages/image-management-edit.php:121
+msgid "Enter title for your image."
+msgstr ""
+
+#: ../pages/image-management-add.php:113
+#: ../pages/image-management-edit.php:123
+msgid "Target link"
+msgstr ""
+
+#: ../pages/image-management-add.php:115
+#: ../pages/image-management-edit.php:125
+msgid "When someone clicks on the picture, where do you want to send them."
+msgstr ""
+
+#: ../pages/image-management-add.php:117
+#: ../pages/image-management-edit.php:127
+msgid "Target link window"
+msgstr ""
+
+#: ../pages/image-management-add.php:122
+#: ../pages/image-management-edit.php:132
+msgid "Do you want to open link in new window?"
+msgstr ""
+
+#: ../pages/image-management-add.php:126
+#: ../pages/image-management-edit.php:136
+msgid "Select"
+msgstr ""
+
+#: ../pages/image-management-add.php:143
+#: ../pages/image-management-edit.php:159
+msgid "This is to group the images. Select your slideshow group."
+msgstr ""
+
+#: ../pages/image-management-add.php:145
+#: ../pages/image-management-edit.php:161
+msgid "Display"
+msgstr ""
+
+#: ../pages/image-management-add.php:150
+#: ../pages/image-management-edit.php:166
+msgid "Do you want the image to show in your galler?"
+msgstr ""
+
+#: ../pages/image-management-add.php:152
+#: ../pages/image-management-edit.php:168
+#: ../pages/image-management-show.php:45 ../pages/image-management-show.php:56
+msgid "Order"
+msgstr ""
+
+#: ../pages/image-management-add.php:154
+#: ../pages/image-management-edit.php:170
+msgid ""
+"What order should the image be played in. should it come 1st, 2nd, 3rd, etc."
+msgstr ""
+
+#: ../pages/image-management-add.php:159
+#: ../pages/image-management-edit.php:175
+msgid "Submit"
+msgstr ""
+
+#: ../pages/image-management-add.php:160
+#: ../pages/image-management-edit.php:176
+msgid "Cancel"
+msgstr ""
+
+#: ../pages/image-management-add.php:161
+#: ../pages/image-management-edit.php:177
+#: ../pages/image-management-show.php:109
+msgid "Help"
+msgstr ""
+
+#: ../pages/image-management-edit.php:11 ../pages/image-management-show.php:14
+msgid "Oops, selected details doesnt exist"
+msgstr ""
+
+#: ../pages/image-management-edit.php:61
+msgid "Image details was successfully updated."
+msgstr ""
+
+#: ../pages/image-management-edit.php:110
+msgid "Update image"
+msgstr ""
+
+#: ../pages/image-management-show.php:21
+msgid "Selected record was successfully deleted."
+msgstr ""
+
+#: ../pages/image-management-show.php:32
+#: ../pages/image-management-show.php:105
+msgid "Add New"
+msgstr ""
+
+#: ../pages/image-management-show.php:42 ../pages/image-management-show.php:53
+msgid "Image"
+msgstr ""
+
+#: ../pages/image-management-show.php:44 ../pages/image-management-show.php:55
+msgid "Open Link"
+msgstr ""
+
+#: ../pages/image-management-show.php:46 ../pages/image-management-show.php:57
+msgid "Group"
+msgstr ""
+
+#: ../pages/image-management-show.php:47 ../pages/image-management-show.php:58
+msgid "Status"
+msgstr ""
+
+#: ../pages/image-management-show.php:48 ../pages/image-management-show.php:59
+msgid "Action"
+msgstr ""
+
+#: ../pages/image-management-show.php:95
+msgid "No records available"
+msgstr ""
+
+#: ../pages/image-management-show.php:107
+msgid "Short Code"
+msgstr ""
